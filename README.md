@@ -1,4 +1,4 @@
-# Create a Google Maps Instance and place markers into it.
+# Create a Google Maps Instance and place markers into it from database.
 
 Google Maps is a powerful tool that allows developers to create interactive maps for their websites. One of the most useful features of Google Maps is the ability to add markers to the map, which can be used to display location-based information.
 
@@ -10,6 +10,6 @@ In this code, we will be doing the following :
 
 1 - Add the Google Maps API to our file.
 2 - Create a Google Maps Instance.
-3 - Retrieve markers positions from databse
+3 - Retrieve markers positions from database using XMLhttpRequest and PHP
 4 - Place markers on the map.
 5 - Create a click event on each marker to show any eventual position information.
