@@ -1,5 +1,5 @@
-# GoogleMaps
-Create a Google Maps Instance and place markers into it.
+# Create a Google Maps Instance and place markers into it.
+
 Google Maps is a powerful tool that allows developers to create interactive maps for their websites. One of the most useful features of Google Maps is the ability to add markers to the map, which can be used to display location-based information.
 
 In order to add markers to a Google Map, you can use both JavaScript and PHP. The JavaScript code is used to create the map and add the markers, while the PHP code is used to retrieve location data from a database or other data source.
